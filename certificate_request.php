@@ -138,8 +138,8 @@
                     <div class="custom_select">
                         <select name="request_type" id="">
                             <option value="">Select Request Type</option>
-                            <option value="original">Marriage Certificate</option>
-                            <option value="photocopy">Baptism Certificate</option>
+                            <option value="Marriage Certificate">Marriage Certificate</option>
+                            <option value="Baptism Certificate">Baptism Certificate</option>
                         </select>
                     </div>
                 </div>

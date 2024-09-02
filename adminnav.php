@@ -33,13 +33,13 @@
                     </a>
                 </li>
                 <li class="sidebar-item">
-                    <a href="#" class="sidebar-link">
+                    <a href="member.php" class="sidebar-link">
                     <i class="bi bi-person"></i> 
                         <span>Member</span>
                     </a>
                 </li>
                 <li class="sidebar-item">
-                    <a href="#" class="sidebar-link">
+                    <a href="admincalendar.php" class="sidebar-link">
                     <i class="bi bi-calendar-check"></i>
                         <span>Schedule</span>
                     </a>
@@ -89,7 +89,7 @@
                             <a href="account_user_req.php" class="sidebar-link">User Request</a>
                         </li>
                         <li class="sidebar-item">
-                            <a href="#" class="sidebar-link">Admin</a>
+                            <a href="adminacc.php" class="sidebar-link">Admin</a>
                         </li>
                     </ul>
                 </li>
